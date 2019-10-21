@@ -13,10 +13,7 @@
     <version>2.1.6.RELEASE</version>
   </parent>
   <name>petclinic</name>
-  <modules>
-    <module>autoincrement</module>
-    <module>autoincrement-maven-plugin</module>
-  </modules>
+
   <properties>
 
     <!-- Generic properties -->
